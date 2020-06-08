@@ -1,0 +1,48 @@
+/*selectior{
+	property= value
+}*/
+
+* {
+	text-decoration: none;
+}
+body {
+	background-image: url(kidschool.jpg);
+	background-size: auto;
+}
+
+h1 {
+	font-family: comic sans ms;
+	font-size: 40px;
+	color: tomato;
+	border: dotted black;
+}
+	.low{
+		font-size: 20px;
+		cursor: pointer;
+		text-align: right;
+	}
+
+	.texttop{
+		color: blue;
+		font-size: 45px;
+	}
+
+	.textbtm{
+		color: red;
+		font-size: 35px;
+	}
+p{
+	font-family: Verdana;
+	font-size: 20px
+
+}
+
+li {
+	font-family: Verdana;
+	font-size: 25px
+}
+
+form {
+	font-family: Arial;
+	font-size: 25px;
+}

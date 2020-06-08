@@ -1,0 +1,48 @@
+/*selector{
+	property= value
+}*/
+	
+body {
+	background-image: url(kidschool.jpg);
+	background-size: cover;
+}
+
+p {
+	font-family: Comic Sans ms;
+	font-size: 20px;
+	text-align: justify;
+	word-spacing: 5px;
+	line-height: 30px;
+}
+
+.next {
+	font-size: 20px;
+	cursor: pointer;
+	text-align: right;
+}
+
+h1 {
+	color: #008080;
+	text-align: start;
+	font-family: Gerorgia;
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 50px;
+	border: 4px double rgba(225, 98, 38, 1);
+	width: 320px;
+	cursor: pointer;
+	background-color: #aaf1f7 none;
+}
+
+hr {
+	border: 2px solid red;
+	max-width: 320px;
+	text-align: 0px;
+	margin-left: 0;
+}
+
+ul {
+	font-family: Comic Sans ms;
+	font-size: 20px;
+	text-align: justify;
+}
